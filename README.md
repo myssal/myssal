@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, i'm a guy interested in game datamining. You can find some asset repo of certain games in my github page.
+Hello
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Myssal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -12,4 +12,4 @@ Hi, i'm a guy interested in game datamining. You can find some asset repo of cer
 ---
 [![](https://visitcount.itsvg.in/api?id=Myssal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Discord Presence](https://lanyard.cnrad.dev/api/670093672569896960?borderRadius=10px&idleMessage=&theme=)](https://discord.com/users/670093672569896960)
