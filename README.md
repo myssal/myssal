@@ -14,4 +14,4 @@ Hello
 ---
 [![](https://visitcount.itsvg.in/api?id=Myssal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/670093672569896960?borderRadius=10px&idleMessage=&theme=)](https://discord.com/users/670093672569896960)
+[![Discord Presence](https://lanyard.cnrad.dev/api/670093672569896960?theme=light&bg=)](https://discord.com/users/670093672569896960)
